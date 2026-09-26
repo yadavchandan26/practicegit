@@ -1,2 +1,6 @@
-age=18
-print('eligible for vote ') if age>=18 else print("not eligible")
+password='admin123'
+
+entered_pass=input('enter the password:')
+
+while password !=entered_pass:
+  entere_pass=input('try again:')
