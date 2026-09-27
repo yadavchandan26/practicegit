@@ -1,4 +1,4 @@
-password='admin123'
+ password='admin123'
 
 entered_pass=input('enter the password:')
 
