@@ -1,5 +1,6 @@
- password='admin123'
+password='admin123'
 
+print("user password is : xxxxx123")
 entered_pass=input('enter the password:')
 
 while password !=entered_pass:
